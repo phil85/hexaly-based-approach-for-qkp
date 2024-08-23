@@ -18,6 +18,7 @@ Bibtex:
 	journal = {under review},
 }
 ```
+[->Link to paper](https://arxiv.org/abs/2408.12183)
 
 ## Links to related repositories
 
